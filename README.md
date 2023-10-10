@@ -1,4 +1,5 @@
-# Ebanking sjebanking.netlify.app
+# Ebanking 
+# sjebanking.netlify.app
 Internet banking project is a complex and critical task, as it involves handling sensitive financial data and providing a secure, user-friendly experience for customers. Here's an outline of the key components and considerations for developing an internet banking project:
 
 **1. Project Planning:**
